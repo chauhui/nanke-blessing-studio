@@ -1,0 +1,12 @@
+{
+  "name": "nanke-blessing-studio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "sanity dev --host",
+    "build": "sanity build",
+    "start": "sanity start"
+  },
+  "dependencies": {
+    "sanity": "^3.37.0"
+  }
+}
